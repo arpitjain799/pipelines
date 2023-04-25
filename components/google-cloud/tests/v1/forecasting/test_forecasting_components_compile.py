@@ -15,7 +15,6 @@
 
 import os
 
-from google_cloud_pipeline_components import aiplatform
 from google_cloud_pipeline_components.v1 import forecasting
 from google_cloud_pipeline_components.v1 import dataset
 from google_cloud_pipeline_components.v1.automl.training_job import AutoMLForecastingTrainingJobRunOp
